@@ -3,16 +3,16 @@
 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
 - 👋 Hi, I’m @geslop
 - 👀 I’m interested in:
-     * Artificial Intelligence (ML, CV and NPL)
+     * Artificial Intelligence (ML and CV mainly)
      * Prompting Engineering
      * Cloud Computing (Azure)
      * Quantum Computing 
-- 🌱 I’m currently learning to use Azure platform, new Python's libraries
+- 🌱 I’m currently learning to use Azure platform and Google Colab plataform, new Python's libraries
      for creating and deploying new IA's proyects.
 - 💞️ I’m looking to Open source Proyects to collaborate.
 - 📫 How to reach me: www.linkedin.com/in/jedalo 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love the snacks (Doritos specially haha) and pastas!!
+
 
 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
